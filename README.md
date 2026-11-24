@@ -1,5 +1,7 @@
 # Learn Swift → Crack the Coding Interview
 
+This is a Swift learning project covering Data Structures and Algorithms, based on the book *Cracking the Coding Interview*.
+
 A step-by-step Swift course for Xcode. You start with `print("Hello")` and finish on the interview problems in
 *Cracking the Coding Interview* (CtCI, 6th edition). Tests grade every exercise, so you always know whether
 your answer is right.
